@@ -1,0 +1,92 @@
+body {
+  text-align: center;
+  background:url(./images/wp5482925-japanese-aesthetic-pc-wallpapers.jpg);
+  background-size: cover;
+}
+
+h1 {
+  font-size: 5rem;
+  color: #DBEDF3;
+  font-family: "Arvo", cursive;
+  text-shadow: 3px 0 #F804F8;
+
+}
+
+footer {
+  color: #DBEDF3;
+  font-family: sans-serif;
+}
+
+.W{
+  
+  background-image: url(./images/tom-1.jpeg);
+  
+}
+
+.A {
+  background-image: url(./images/tom-2.jpeg);
+}
+
+.S {
+  background-image: url(./images/tom-3.jpeg);
+}
+
+.D {
+  background-image: url(./images/tom-4.jpeg);
+}
+
+.J {
+  background-image: url(./images/snare.png);
+}
+
+.K {
+  background-image: url(./images/crash.jpeg);
+}
+
+.L {
+  background-image: url(./images/kick.jpeg);
+}
+
+.set {
+  margin: 10% auto;
+  
+}
+
+.game-over {
+  background-color: red;
+  opacity: 0.8;
+}
+
+.animation {
+  box-shadow: 0 3px 4px 0 #DBEDF3;
+  opacity: 0.5;
+}
+
+.red {
+  color: red;
+}
+
+
+.drum {
+  
+  outline: none;
+  border: 5px solid #201C5E;
+  border-top-color: #F804F8;
+  border-right-color: #384f6b;
+  border-left-color: #F804F8;
+  font-size: 5rem;
+  font-family: 'Arvo', cursive;
+  line-height: 2;
+  font-weight: 900;
+  color: #F804F8;
+  text-shadow: 3px 0 #DBEDF3;
+  border-radius: 20px;
+  display: inline-block;
+  width: 150px;
+  height: 150px;
+  text-align: center;
+  margin: 10px;
+  background-color: white;
+  background-size: cover;
+  
+}
