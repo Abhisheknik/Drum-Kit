@@ -1,10 +1,10 @@
 # Drum-Kit
 
 
-# Welcome to the Drum Kit
+# Welcome to the Drum Kit😊
 This project is a simple and interactive drum kit created using HTML, CSS, and JavaScript.
 
-# Features
+# Features🔥
 Nine different drum sounds that can be played by clicking on the corresponding button or by pressing the corresponding key on the keyboard.
 A visual animation that plays when a drum sound is triggered.
 A display that shows the name of the drum sound that is currently being played.
